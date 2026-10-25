@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Lake Chlorophyll-a Monitor"
+abstract: "Google Earth Engine script that tracks chlorophyll-a in lakes and reservoirs from Sentinel-2 NDCI with Cloud Score+ masking, monthly lake statistics and a MODIS-Aqua comparison."
+type: software
+authors:
+  - family-names: Abbasalizadehrezaei
+    given-names: Parisa
+    orcid: "https://orcid.org/0009-0009-5708-7673"
+repository-code: "https://github.com/RisaRezaei/gee-lake-chlorophyll"
+url: "https://risarezaei.github.io/tool.html?r=gee-lake-chlorophyll"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-25"
