@@ -10,5 +10,6 @@ authors:
 repository-code: "https://github.com/RisaRezaei/gee-lake-chlorophyll"
 url: "https://risarezaei.github.io/tool.html?r=gee-lake-chlorophyll"
 license: MIT
+doi: "10.5281/zenodo.23646373"
 version: 1.0.0
 date-released: "2026-10-25"

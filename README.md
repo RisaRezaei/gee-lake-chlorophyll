@@ -3,6 +3,7 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-34A853?logo=googleearth&logoColor=white)](https://code.earthengine.google.com)
 [![Sentinel-2](https://img.shields.io/badge/data-Sentinel--2%20%7C%20MODIS--Aqua-0B5394)](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23646373.svg)](https://doi.org/10.5281/zenodo.23646373)
 
 Track **chlorophyll-a and algal-bloom intensity** in lakes and reservoirs with Sentinel-2 and the **Normalized Difference Chlorophyll Index (NDCI)**, and cross-check it against the **MODIS-Aqua** ocean-colour chlorophyll product.
 
@@ -53,6 +54,12 @@ Track **chlorophyll-a and algal-bloom intensity** in lakes and reservoirs with S
 
 - Mishra, S. & Mishra, D. R. (2012). Normalized difference chlorophyll index: A novel model for remote estimation of chlorophyll-a concentration in turbid productive waters. *Remote Sensing of Environment*, 117, 394–406.
 - Pasquarella, V. J. et al. (2023). Cloud Score+ for Sentinel-2. Earth Engine dataset [`GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED`](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED).
+
+## Cite this tool
+
+Abbasalizadehrezaei, P. (2026). *Lake Chlorophyll-a Monitor* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23646373
+
+GitHub also offers a ready-made citation under **Cite this repository** (from [CITATION.cff](CITATION.cff)).
 
 ## Author
 
